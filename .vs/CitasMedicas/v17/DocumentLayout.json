@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\service\\diagnosticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\service\\diagnosticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\service\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\service\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\service\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\service\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\service\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\service\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\interfaces\\idiagnosticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\interfaces\\idiagnosticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\interfaces\\imedicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\interfaces\\imedicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\interfaces\\icitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\interfaces\\icitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\interfaces\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\interfaces\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\dtos\\creation\\diagnosticodtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\creation\\diagnosticodtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\dtos\\creation\\citadtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\creation\\citadtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\models\\citamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\models\\citamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\dtos\\obtain\\citadtoobtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\obtain\\citadtoobtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\implementation\\diagnosticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\implementation\\diagnosticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\implementation\\citasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\implementation\\citasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\dtos\\creation\\medicodtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\creation\\medicodtocreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\repository\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\repository\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\mappers\\citamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\mappers\\citamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\implementation\\medicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\implementation\\medicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|c:\\users\\josemi\\desktop\\metaenlace\\citasmedicas\\citasmedicas\\repository\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E13F46-2A2A-4EE1-AE39-627708CF12CB}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\repository\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiagnosticoService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\DiagnosticoService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Service\\DiagnosticoService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\DiagnosticoService.cs",
+              "RelativeToolTip": "CitasMedicas\\Service\\DiagnosticoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:40:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDiagnosticoService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IDiagnosticoService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Interfaces\\IDiagnosticoService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IDiagnosticoService.cs",
+              "RelativeToolTip": "CitasMedicas\\Interfaces\\IDiagnosticoService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:39:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CitaService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\CitaService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Service\\CitaService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\CitaService.cs",
+              "RelativeToolTip": "CitasMedicas\\Service\\CitaService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:21:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicoService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\MedicoService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Service\\MedicoService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\MedicoService.cs",
+              "RelativeToolTip": "CitasMedicas\\Service\\MedicoService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:05:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Implementation\\GenericRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwEYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:17:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:48:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "CitasMedicas\\Service\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:50:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\CitaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:55:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMedicoService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IMedicoService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Interfaces\\IMedicoService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IMedicoService.cs",
+              "RelativeToolTip": "CitasMedicas\\Interfaces\\IMedicoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:03:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "CitasMedicas\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:55:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\MedicoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:55:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICitaService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\ICitaService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Interfaces\\ICitaService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\ICitaService.cs",
+              "RelativeToolTip": "CitasMedicas\\Interfaces\\ICitaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:15:40.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Program.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Program.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Program.cs",
+              "RelativeToolTip": "CitasMedicas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:54:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\PacienteService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Service\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Service\\PacienteService.cs",
+              "RelativeToolTip": "CitasMedicas\\Service\\PacienteService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA8wGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:39:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CitaDtoObtain.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Obtain\\CitaDtoObtain.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Dtos\\Obtain\\CitaDtoObtain.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Obtain\\CitaDtoObtain.cs",
+              "RelativeToolTip": "CitasMedicas\\Dtos\\Obtain\\CitaDtoObtain.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:03:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IPacienteService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Interfaces\\IPacienteService.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Interfaces\\IPacienteService.cs",
+              "RelativeToolTip": "CitasMedicas\\Interfaces\\IPacienteService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:38:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CitasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\CitasRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Implementation\\CitasRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\CitasRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Implementation\\CitasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:44:40.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiagnosticoDtoCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\DiagnosticoDtoCreation.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Dtos\\Creation\\DiagnosticoDtoCreation.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\DiagnosticoDtoCreation.cs",
+              "RelativeToolTip": "CitasMedicas\\Dtos\\Creation\\DiagnosticoDtoCreation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:27:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CitaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Models\\CitaModel.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Models\\CitaModel.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Models\\CitaModel.cs",
+              "RelativeToolTip": "CitasMedicas\\Models\\CitaModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:41:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CitaDtoCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\CitaDtoCreation.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Dtos\\Creation\\CitaDtoCreation.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\CitaDtoCreation.cs",
+              "RelativeToolTip": "CitasMedicas\\Dtos\\Creation\\CitaDtoCreation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:27:00.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\appsettings.json",
+              "RelativeDocumentMoniker": "CitasMedicas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\appsettings.json",
+              "RelativeToolTip": "CitasMedicas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T08:00:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiagnosticoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\DiagnosticoRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Implementation\\DiagnosticoRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\DiagnosticoRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Implementation\\DiagnosticoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:44:41.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MedicoDtoCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\MedicoDtoCreation.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Dtos\\Creation\\MedicoDtoCreation.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Dtos\\Creation\\MedicoDtoCreation.cs",
+              "RelativeToolTip": "CitasMedicas\\Dtos\\Creation\\MedicoDtoCreation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:27:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\ICitaRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Repository\\ICitaRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\ICitaRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Repository\\ICitaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:44:46.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "CitasMedicas\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:20:27.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CitaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Mappers\\CitaMapper.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Mappers\\CitaMapper.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Mappers\\CitaMapper.cs",
+              "RelativeToolTip": "CitasMedicas\\Mappers\\CitaMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:44:52.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MedicosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\MedicosRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Implementation\\MedicosRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Implementation\\MedicosRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Implementation\\MedicosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:43.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "CitasMedicas\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:46:01.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\IMedicoRepository.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Repository\\IMedicoRepository.cs",
+              "ToolTip": "C:\\Users\\Josemi\\Desktop\\MetaEnlace\\CitasMedicas\\CitasMedicas\\Repository\\IMedicoRepository.cs",
+              "RelativeToolTip": "CitasMedicas\\Repository\\IMedicoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:45:59.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
