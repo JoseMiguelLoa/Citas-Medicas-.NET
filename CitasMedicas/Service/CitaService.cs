@@ -39,6 +39,14 @@ namespace CitasMedicas.Service
         {
             _unitOfWork.Paciente.GetById(citaDto.pacienteId);
             _unitOfWork.Medico.GetById(citaDto.medicoId);
+
+            // Obtener la zona horaria actual del servidor
+            TimeZoneInfo serverTimeZone = TimeZoneInfo.Local;
+
+            // Ajustar la hora según el desfase horario
+            TimeSpan timezoneOffset = serverTimeZone.GetUtcOffset(citaDto.fechaHora);
+            citaDto.fechaHora = citaDto.fechaHora.Add(timezoneOffset);
+
             var cita = _mapper.Map<CitaModel>(citaDto);
             _unitOfWork.Cita.Add(cita);
             _unitOfWork.Save();
