@@ -253,3 +253,4 @@ C:\Users\Josemi\Desktop\MetaEnlace\CitasMedicas\CitasMedicas\obj\Debug\net8.0\Ci
 C:\Users\Josemi\Desktop\MetaEnlace\CitasMedicas\CitasMedicas\obj\Debug\net8.0\ref\CitasMedicas.dll
 C:\Users\Josemi\Desktop\MetaEnlace\CitasMedicas\CitasMedicas\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Josemi\Desktop\MetaEnlace\CitasMedicas\CitasMedicas\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Josemi\Desktop\MetaEnlace\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.sourcelink.json

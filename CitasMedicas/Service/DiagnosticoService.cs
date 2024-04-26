@@ -52,7 +52,6 @@ namespace CitasMedicas.Service
         {
             var diagnostico = _unitOfWork.Diagnostico.GetById(id);
 
-            _unitOfWork.Cita.GetById(diagnosticoDto.citaId);
 
             if (diagnosticoDto.valoracionEspecialista != null && diagnosticoDto.valoracionEspecialista.Length != 0)
                 diagnostico.valoracionEspecialista = diagnosticoDto.valoracionEspecialista;
